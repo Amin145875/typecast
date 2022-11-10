@@ -1,0 +1,14 @@
+#include <iostream>
+ using namespace std;
+
+ int main(){
+
+    //declare a variable 
+double myNum=10.123;
+int myNewNum=40;
+
+//varible initalization
+cout<<myNewNum;//the output the new integer variable
+
+    return 0;
+ }
